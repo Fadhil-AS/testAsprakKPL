@@ -1,0 +1,6 @@
+@APITokoOnline_HostAddress = http://localhost:5240
+
+GET {{APITokoOnline_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
